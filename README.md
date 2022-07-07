@@ -1,6 +1,6 @@
 # Markdown Challenge
 
-Clone this directory to your local computer.
+Clone this repository to your local computer.
 
 The `data` directory contains a list of markdown documents that are sorted into sections.
 The title of each section can be found in the special `_index.md` file while its ID is part of the folder name.
